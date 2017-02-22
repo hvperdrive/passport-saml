@@ -1,6 +1,8 @@
 Passport-SAML
 =============
 
+**This library contains a TEMP fix for a POC. Do not use this version for production purposes.**
+
 This is a [SAML 2.0](http://en.wikipedia.org/wiki/SAML_2.0) authentication provider for [Passport](http://passportjs.org/), the Node.js authentication library.
 
 The code was originally based on Michael Bosworth's [express-saml](https://github.com/bozzltron/express-saml) library.
